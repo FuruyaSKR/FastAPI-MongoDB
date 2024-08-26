@@ -1,0 +1,61 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Virtualenv
+venv/
+.venv/  
+env/
+ENV/
+env.bak/
+*.env
+
+# FastAPI specific cache
+*.db
+*.sqlite3
+*.log
+*.pot
+*.mo
+*.htmlcov
+instance/
+.webassets-cache
+scrapbook.ipynb
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# VS Code
+.vscode/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pytest
+.cache/
+
+# Coverage reports
+coverage/
+*.cover
+.hypothesis/
+.coverage
+coverage.xml
+*.coveragerc
+*.coverignore
+.cache/
+
+# pytest cache
+.cache/
