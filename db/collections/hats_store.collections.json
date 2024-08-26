@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66cb9f2e95ecde6bbb35fb68"
+  },
+  "collection_id": 1,
+  "nome_colecao": "Verão 2024",
+  "descricao": "Coleção de chapéus para o verão 2024",
+  "data_criacao": "2024-08-20T14:30:00",
+  "disponivel": false
+},
+{
+  "_id": {
+    "$oid": "66cb9f2e95ecde6bbb35fb69"
+  },
+  "collection_id": 2,
+  "nome_colecao": "Inverno 2024",
+  "descricao": "Coleção de chapéus para o inverno 2024",
+  "data_criacao": "2024-08-21T10:00:00",
+  "disponivel": false
+},
+{
+  "_id": {
+    "$oid": "66cb9f2e95ecde6bbb35fb6a"
+  },
+  "collection_id": 3,
+  "nome_colecao": "Caveiras Mexicanas con Sombreros Vintage",
+  "descricao": "Coleção exclusiva de chapéus vintage inspirados nas tradicionais caveiras mexicanas.",
+  "data_criacao": "2024-08-25T12:30:00",
+  "disponivel": true
+},
+{
+  "_id": {
+    "$oid": "66cbef0fa1207d2d9950ae7a"
+  },
+  "nome_colecao": "Coleção Teste",
+  "descricao": "É pra teste mesmo",
+  "disponivel": false,
+  "collection_id": 4,
+  "data_criacao": "2024-08-25T23:57:19"
+},
+{
+  "_id": {
+    "$oid": "66cbef4773c7ca1e8a126a62"
+  },
+  "nome_colecao": "Teste2",
+  "descricao": "Teste2",
+  "disponivel": true,
+  "collection_id": 5,
+  "data_criacao": "2024-08-25T23:58:15"
+},
+{
+  "_id": {
+    "$oid": "66cbef76c8ee2dbd19868bb2"
+  },
+  "nome_colecao": "Teste2",
+  "descricao": "Teste2",
+  "disponivel": true,
+  "collection_id": 6,
+  "data_criacao": "2024-08-25T23:59:02"
+}]

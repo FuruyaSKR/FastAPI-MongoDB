@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "66cb9e4e95ecde6bbb35fb51"
+  },
+  "hat_id": 1,
+  "nome_chapeu": "Chapéu de Palha",
+  "descricao": "Chapéu de palha tradicional para o verão",
+  "preco": 79.99,
+  "tamanho": "M",
+  "cores_disponiveis": [
+    "bege",
+    "marrom"
+  ],
+  "collection_id": 1,
+  "disponivel": true,
+  "data_criacao": "2024-08-22T16:45:00"
+},
+{
+  "_id": {
+    "$oid": "66cb9e4e95ecde6bbb35fb52"
+  },
+  "hat_id": 2,
+  "nome_chapeu": "Boina de Lã",
+  "descricao": "Boina confortável para o inverno",
+  "preco": 99.99,
+  "tamanho": "L",
+  "cores_disponiveis": [
+    "preto",
+    "cinza"
+  ],
+  "collection_id": 2,
+  "disponivel": true,
+  "data_criacao": "2024-08-23T09:30:00"
+},
+{
+  "_id": {
+    "$oid": "66cb9e4e95ecde6bbb35fb53"
+  },
+  "hat_id": 3,
+  "nome_chapeu": "Sombrero de Fieltro",
+  "descricao": "Sombrero de Fieltro exclusivo, parte da coleção de caveiras mexicanas.",
+  "preco": 138.5,
+  "tamanho": "L",
+  "cores_disponiveis": [
+    "negro",
+    "azul",
+    "rojo"
+  ],
+  "collection_id": 3,
+  "disponivel": true,
+  "data_criacao": "2024-08-06T09:50:15"
+},
+{
+  "_id": {
+    "$oid": "66cb9e4e95ecde6bbb35fb54"
+  },
+  "hat_id": 4,
+  "nome_chapeu": "Sombrero de Ala Ancha",
+  "descricao": "Sombrero de Ala Ancha exclusivo, parte da coleção de caveiras mexicanas.",
+  "preco": 60.53,
+  "tamanho": "S",
+  "cores_disponiveis": [
+    "marrón",
+    "blanco",
+    "negro"
+  ],
+  "collection_id": 3,
+  "disponivel": true,
+  "data_criacao": "2024-08-24T14:36:04"
+},
+{
+  "_id": {
+    "$oid": "66cb9e4e95ecde6bbb35fb55"
+  },
+  "hat_id": 5,
+  "nome_chapeu": "Sombrero Trilby",
+  "descricao": "Sombrero Trilby exclusivo, parte da coleção de caveiras mexicanas.",
+  "preco": 146.2,
+  "tamanho": "L",
+  "cores_disponiveis": [
+    "rojo",
+    "blanco",
+    "marrón"
+  ],
+  "collection_id": 3,
+  "disponivel": true,
+  "data_criacao": "2024-08-12T16:38:29"
+},
+{
+  "_id": {
+    "$oid": "66cb9e4e95ecde6bbb35fb56"
+  },
+  "hat_id": 6,
+  "nome_chapeu": "Sombrero Fedora",
+  "descricao": "Sombrero Fedora exclusivo, parte da coleção de caveiras mexicanas.",
+  "preco": 52.11,
+  "tamanho": "M",
+  "cores_disponiveis": [
+    "rojo",
+    "azul",
+    "blanco"
+  ],
+  "collection_id": 3,
+  "disponivel": true,
+  "data_criacao": "2024-08-04T10:37:07"
+},
+{
+  "_id": {
+    "$oid": "66cb9e4e95ecde6bbb35fb57"
+  },
+  "hat_id": 7,
+  "nome_chapeu": "Sombrero de Paja Vintage",
+  "descricao": "Sombrero de Paja Vintage exclusivo, parte da coleção de caveiras mexicanas.",
+  "preco": 113.73,
+  "tamanho": "S",
+  "cores_disponiveis": [
+    "rojo",
+    "blanco",
+    "negro"
+  ],
+  "collection_id": 3,
+  "disponivel": true,
+  "data_criacao": "2024-08-08T14:29:00"
+},
+{
+  "_id": {
+    "$oid": "66cb9e4e95ecde6bbb35fb58"
+  },
+  "hat_id": 8,
+  "nome_chapeu": "Sombrero Bombín",
+  "descricao": "Sombrero Bombín exclusivo, parte da coleção de caveiras mexicanas.",
+  "preco": 128.93,
+  "tamanho": "M",
+  "cores_disponiveis": [
+    "azul",
+    "rojo",
+    "negro"
+  ],
+  "collection_id": 3,
+  "disponivel": true,
+  "data_criacao": "2024-08-20T23:54:09"
+},
+{
+  "_id": {
+    "$oid": "66cb9e4e95ecde6bbb35fb59"
+  },
+  "hat_id": 9,
+  "nome_chapeu": "Sombrero Cloche",
+  "descricao": "Sombrero Cloche exclusivo, parte da coleção de caveiras mexicanas.",
+  "preco": 140.18,
+  "tamanho": "L",
+  "cores_disponiveis": [
+    "verde",
+    "marrón",
+    "rojo"
+  ],
+  "collection_id": 3,
+  "disponivel": true,
+  "data_criacao": "2024-08-16T19:39:12"
+},
+{
+  "_id": {
+    "$oid": "66cb9e4e95ecde6bbb35fb5a"
+  },
+  "hat_id": 10,
+  "nome_chapeu": "Sombrero Homburg",
+  "descricao": "Sombrero Homburg exclusivo, parte da coleção de caveiras mexicanas.",
+  "preco": 101.18,
+  "tamanho": "S",
+  "cores_disponiveis": [
+    "negro",
+    "blanco",
+    "verde"
+  ],
+  "collection_id": 3,
+  "disponivel": true,
+  "data_criacao": "2024-08-06T10:42:03"
+},
+{
+  "_id": {
+    "$oid": "66cb9e4e95ecde6bbb35fb5b"
+  },
+  "hat_id": 11,
+  "nome_chapeu": "Sombrero Pork Pie",
+  "descricao": "Sombrero Pork Pie exclusivo, parte da coleção de caveiras mexicanas.",
+  "preco": 54.98,
+  "tamanho": "L",
+  "cores_disponiveis": [
+    "azul",
+    "rojo",
+    "blanco"
+  ],
+  "collection_id": 3,
+  "disponivel": true,
+  "data_criacao": "2024-08-10T12:38:47"
+}]
